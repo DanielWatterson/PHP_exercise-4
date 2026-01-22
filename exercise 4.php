@@ -99,7 +99,7 @@
         </div>
     </div>
 
-    <!-- ================= QUESTION 4 ================= -->
+    <!-- ====== QUESTION 4 ====== -->
     <div class="card shadow task-card mb-4">
         <div class="card-body">
 
@@ -116,14 +116,10 @@
                 }
             ?>
 
-            <div class="output-box">
-                <!-- Output goes here -->
-            </div>
-
         </div>
     </div>
 
-    <!-- ================= QUESTION 5 ================= -->
+    <!-- ===== QUESTION 5 ===== -->
     <div class="card shadow task-card mb-4">
         <div class="card-body">
 
@@ -139,10 +135,6 @@
                     $num_do++;
                 } while ($num_do <= 5);
             ?>
-
-            <div class="output-box">
-                
-            </div>
 
         </div>
     </div>
